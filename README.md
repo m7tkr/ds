@@ -4,9 +4,17 @@
 
 * Learn math first fundamentals first
 
--[ ] Geometry - C
--[ ] Trigonometry -
--[ ] College Algebra
+- [ ] Geometry - C
+- [ ] Trigonometry -
+- [ ] College Algebra
+
+- - -
+
+## learning aside
+
+* `latex` for taking math notes
+* `bash` for scripting
+* some basic `unix/linux` stuff to stay in shape
 
 ## Notes
 
