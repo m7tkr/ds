@@ -6,9 +6,13 @@
 
 * difference of squares
 
-* to be added
+* equation of circle
 
-## how to solve quadratics
+## bold words
+
+## algorithms
+
+### how to solve quadratics
 
 1. by factoring
 2. by completing the square
