@@ -2,18 +2,18 @@
 
 ## learning objectives
 
-* Learn math first fundamentals first
+* Learn math fundamentals first
 
-- [ ] Geometry - C
-- [ ] Trigonometry -
-- [ ] College Algebra
+- [ ] Geometry - Lang & Murrow
+- [ ] Trigonometry - Stitz
+- [ ] College Algebra - Stitz
 
 - - -
 
 ## learning aside
 
 * `latex` for taking math notes
-* `bash` for scripting
+* `bash`, `regex` for scripting
 * some basic `unix/linux` stuff to stay in shape
 
 ## Notes
