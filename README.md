@@ -1,18 +1,31 @@
 # ds
 
-## learning objectives
+## objectives
 
-* Learn math fundamentals first
+* math fundamentals *first*
 
-- [ ] Geometry - Lang & Murrow
-- [ ] Trigonometry - Stitz
+- [x] Geometry - Lang & Murrow
 - [ ] College Algebra - Stitz
+- [ ] Trigonometry - Stitz
 
 - - -
+
+## resources
+
+* probability
+  * https://projects.iq.harvard.edu/stat110/home
+* stats
+  * beginner
+    * Sheldon M Ross - Introductory Statistics.
+    * John Tsitsiklis - Introduction to Statistics.
+  * adv
+    * Goon Gupta and Das Gupta - Fundamentals of Statistics vol 1&2
 
 ## learning aside
 
 * `latex` for taking math notes
+  * https://castel.dev/
+  * https://www.ejmastnak.com/tutorials/vim-latex/intro/
 * `bash`, `regex` for scripting
 * some basic `unix/linux` stuff to stay in shape
 

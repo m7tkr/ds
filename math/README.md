@@ -10,6 +10,8 @@
 
 ## bold words
 
+* tangent to the circle
+
 ## algorithms
 
 ### how to solve quadratics
