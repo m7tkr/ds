@@ -17,7 +17,7 @@
 * stats
   * beginner
     * Sheldon M Ross - Introductory Statistics.
-    * John Tsitsiklis - Introduction to Statistics.
+    * John Tsitsiklis - Introduction to Statistics (not found)
   * adv
     * Goon Gupta and Das Gupta - Fundamentals of Statistics vol 1&2
 

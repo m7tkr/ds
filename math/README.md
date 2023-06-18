@@ -12,10 +12,11 @@
 
 * tangent to the circle
 
-## algorithms
+## algor
 
 ### how to solve quadratics
 
 1. by factoring
 2. by completing the square
 3. using quadratic formula
+geometry/README.md
