@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1687737170 "math.tex" "math.pdf" "math" 1687737183
+["pdflatex"] 1687860761 "math.tex" "math.pdf" "math" 1687860776
   "/etc/texmf/web2c/texmf.cnf" 1684350216 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/m7tkr/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk" 1687717616 14040 68b33f4c994a6c970e6f8addabf0298b ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -59,9 +59,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1684350230 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1687721768 1405651 295057c50084875d356952eb92ae3fc6 ""
-  "math.aux" 1687737183 1689 3f89b9b57f466624c188ce46e7e0da2e "pdflatex"
-  "math.tex" 1687737157 3041 b01d6e0616881e64d4000fbf4f330f8a ""
-  "math.toc" 1687737183 1033 0e2580154a2c6e6a84b574d6fe6d5f46 "pdflatex"
+  "math.aux" 1687860775 2401 a42c9b368160ac97dc876982affc1e7f "pdflatex"
+  "math.tex" 1687860760 4147 bbcf9eba36bccf9945aac43d09d4dcd3 ""
+  "math.toc" 1687860775 1499 9e3be8a2230ecfdbb63a44a98633554c "pdflatex"
   (generated)
   "math.aux"
   "math.log"
