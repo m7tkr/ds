@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1687979729 "math.tex" "math.pdf" "math" 1687979745
+["pdflatex"] 1688071926 "math.tex" "math.pdf" "math" 1688071942
   "/etc/texmf/web2c/texmf.cnf" 1684350216 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/m7tkr/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk" 1687717616 14040 68b33f4c994a6c970e6f8addabf0298b ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -28,6 +28,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti7.tfm" 1136768653 1492 86331993fe614793f5e7e755835c31c5 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti8.tfm" 1136768653 1504 1747189e0441d1c18f3ea56fafc1c480 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb" 1248133631 32166 b0c356b15f19587482a9217ce1d8fa67 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1248133631 30251 6afa5cb1d0204815a708a080681d4674 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb" 1248133631 37166 8ab3487cbe3ab49ebce74c29ea2418db ""
@@ -59,9 +60,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1684350230 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1687721768 1405651 295057c50084875d356952eb92ae3fc6 ""
-  "math.aux" 1687979742 2521 34e601a40f816edacf271421c61dc956 "pdflatex"
-  "math.tex" 1687979711 4585 d5fcec132bc0eb3350e3c1d127073d60 ""
-  "math.toc" 1687979742 1578 681111ceef1117107f7039fc931cfa0e "pdflatex"
+  "math.aux" 1688071939 2637 88c0957adb5496d7056ac9e5f5276c86 "pdflatex"
+  "math.tex" 1688071924 5240 f854bff76883f40737e3cc73c01e09cd ""
+  "math.toc" 1688071939 1653 d100ffa7b6545f4b8a05c538029cd390 "pdflatex"
   (generated)
   "math.aux"
   "math.log"
