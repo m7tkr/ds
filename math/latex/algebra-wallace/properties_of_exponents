@@ -1,0 +1,9 @@
+\subsection{properties of exponents}
+
+\begin{center}
+        \begin{tabular}{*{3}c}
+        \( a^{m}a^n=a^{m+n} \)& \( (ab)^m=a^{m}b^{m} \)    & \( \frac{a^m}{a^n}=a^{m-n} \) \\[10pt]
+        \( \left(\frac{a}{b}\right)^m=\frac{a^m}{b^m} \) & \( a^{-m}=\frac{1}{a^m} \) & \( \frac{1}{a^{-m}}=a^m \)    \\[10pt]
+        \( (a^m)^n=a^{mn} \) & \( a^0=1 \) & \( \left(\frac{a}{b}\right)^{-m}=\frac{b^m}{a^m} \) \\
+        \end{tabular}
+\end{center}

@@ -4,6 +4,7 @@
 
 * math fundamentals *first*
 
+- [x] Algebra - Wallace
 - [x] Geometry - Lang & Murrow
 - [ ] College Algebra - Stitz
 - [ ] Trigonometry - Stitz
@@ -32,3 +33,5 @@
 ## Notes
 
 * https://github.com/ossu/data-science
+* definition vs theorem
+  *  https://thecontentauthority.com/blog/definition-vs-theorem

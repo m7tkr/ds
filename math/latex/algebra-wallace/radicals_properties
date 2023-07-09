@@ -1,0 +1,11 @@
+\subsection{properties of radicals}                                   
+\begin{center}
+    \begin{tabular}{*{3}c}
+    \( a^{m} a^{n} = a^{m+n} \) & \(  (ab)^{m} = a^{m} b^{m} \) & \( a^{-m} = \displaystyle{\frac{1}{a^{m}}} \) \\[10pt]
+    \( \displaystyle{\frac{a^{m}}{a^{n}} }= a^{m-n} \) & \( \displaystyle{\left(\frac{a}{b}\right)^{m} } = \frac{a^{m}}{b^{m}} \) & \( \displaystyle{\frac{1}{a^{-m}}} = a^{m} \) \\[10pt]
+    \( \left(a^{m}\right)^{n} = a^{mn} \) & \( a^{0} = 1 \) & \( \left( \displaystyle{\frac{a}{b}}\right)^{-m} = \displaystyle{\frac{b^{m}}{a^{m}}} \)
+    \end{tabular}\\[1cm]
+\end{center}
+\begin{center}
+\fbox{ \textbf{ always rationalize denominator } }
+\end{center}

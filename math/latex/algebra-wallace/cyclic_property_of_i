@@ -1,0 +1,17 @@
+\subsection{cyclic property of powers of \( i \) }
+
+\begin{alignat*}{4}
+&i^{0} &&= 1 \\
+&i  &&= i \\
+&i^{2} &&= -1 \\
+&i^{3} &&= -i
+\end{alignat*}
+
+\paragraph{Example}
+
+\begin{alignat*}{2}
+    i^{35} \quad & \text{\raggedleft divide exponent by 4} \\
+    8R3 \quad & \text{use remainder as exp of }i  \\
+    i^{3} \quad & \text{simplify} \\
+    -i \quad & \text{solution}
+\end{alignat*}

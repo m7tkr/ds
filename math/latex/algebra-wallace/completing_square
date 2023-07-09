@@ -1,0 +1,11 @@
+\subsection{completing the square}
+
+\begin{alignat*}{2}
+    3x^{2}+18x-6=0 &\quad \text{problem} \\
+    3x^{2}+18x=6 &\quad \text{separate consts from vars} \\
+    x^{2}+6x=2 &\quad \text{divide each term by } a \\
+    \left(\frac{1}{2} \cdot 6\right)^{2} = 3^{2} = 9 &\quad \text{find value to complete
+    sq.} \\
+    x^{2}+6x+6=2+6 &\quad \text{add it to both sides of equation} \\
+    (x+3)^{2} = 11 &\quad \text{factor}
+\end{alignat*}

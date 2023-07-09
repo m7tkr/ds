@@ -1,0 +1,5 @@
+# latex
+*.aux
+*.fls
+*.synctex*
+./aux

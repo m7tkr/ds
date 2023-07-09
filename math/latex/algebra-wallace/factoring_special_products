@@ -1,0 +1,12 @@
+\subsection{factoring special products}
+
+\begin{center}
+
+\begin{tabular}{r l}
+    difference of square & \( a^{2}-b^{2}=(a-b)(a+b) \) \\
+    sum of squares & \( a^{2} + b^{2} = \text{Prime} \) \\
+    perfect square & \(  a^{2} + 2ab + b^{2} =  (a+b)^{2} \) \\
+    sum of cubes & \( a^{3} + b^{3} = (a+b)( a^{2} -ab + b^{2} ) \) \\
+    difference of cubes & \( a^{3} - b^{3} = (a-b)( a^{2} +ab + b^{2} ) \)                                                                        
+\end{tabular}
+\end{center}

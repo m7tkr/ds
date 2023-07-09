@@ -1,190 +1,23 @@
 \documentclass[a4paper,12pt]{article}
 \author{m7tkr}
 \usepackage[english]{babel}
+\usepackage{import}
+
+% math packages
 \usepackage{array}
 \renewcommand{\arraystretch}{1.5}
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+% added 1st when using \degree
+\usepackage{gensymb}
+
 \begin{document}
 
 \tableofcontents
 
-\section{algebra}
+% \input{./algebra-wallace/main}
 
-\subsection{wallace}
+\import{./geometry-lang/}{main}
 
-\subsubsection{distributive property}
-
-\[ a(b+c)=ac+bc \]
-
-\subsubsection{slope}
-
-\[ \mathit{m}=\frac{\textbf{rise}}{\textbf{run}}=\frac{y_2-y_1}{x_2-x_1} \]
-
-\subsubsection{properties of exponents}
-\begin{center}
-
-        \begin{tabular}{*{3}c}
-            
-                \( a^{m}a^n=a^{m+n} \)                           & \(
-                (ab)^m=a^{m}b^{m} \)    & \( \frac{a^m}{a^n}=a^{m-n} \) \\[10pt]
-                \( \left(\frac{a}{b}\right)^m=\frac{a^m}{b^m} \) & \( a^{-m}=\frac{1}{a^m} \) & \( \frac{1}{a^{-m}}=a^m \)    \\[10pt]
-                \( (a^m)^n=a^{mn} \)                             & \( a^0=1 \)                & \(
-                \left(\frac{a}{b}\right)^{-m}=\frac{b^m}{a^m} \)                                                              \\
-        \end{tabular}
-\end{center}
-
-\subsubsection{scientific notation}
-
-\[ a \times 10^b \text{ where } 1 \leqslant a < 10 \]
-
-\subsubsection{ways to factor}
-
-\begin{itemize}
-        \item GCF
-        \item Grouping
-        \item Trinomials where \( a = 1 \)
-              \begin{itemize}
-                      \item multiply to \( a \times c \)
-                      \item add to \( b \)
-              \end{itemize}
-
-        \item Trinomials where \( a \neq 1 \)
-        \item Factoring Special Products
-
-\end{itemize}
-
-\subsubsection{factoring special products}
-
-\begin{center}
-
-\begin{tabular}{r l}
-    difference of square & \( a^{2}-b^{2}=(a-b)(a+b) \) \\
-    sum of squares & \( a^{2} + b^{2} = \text{Prime} \) \\
-    perfect square & \(  a^{2} + 2ab + b^{2} =  (a+b)^{2} \) \\
-    sum of cubes & \( a^{3} + b^{3} = (a+b)( a^{2} -ab + b^{2} ) \) \\
-    difference of cubes & \( a^{3} - b^{3} = (a-b)( a^{2} +ab + b^{2} ) \)
-\end{tabular}
-\end{center}
-
-\subsubsection{factoring strategy}
-
-\begin{itemize}
-    \item \textbf{GCF FIRST}
-    \item \textbf{2 terms}: sum of diffs of squares or cubes
-    \item \textbf{3 terms}: ac method, watch for perfect squares
-    \item \textbf{4 terms}: grouping
-\end{itemize}
-
-\subsubsection{cross product}
-
-\[ \text{if } \frac{a}{b} = \frac{c}{d}, \text{ then } ad = bc \]
-
-\subsubsection{definition of radicals}
-
-\[ \sqrt[m]{a} = b, \text{ if } b^{m} = a \]
-
-\subsubsection{properties of radicals}
-
-\begin{center}
-    \begin{tabular}{*{3}c}
-        \( a^{m} a^{n} = a^{m+n} \) & \(  (ab)^{m} = a^{m} b^{m} \) & \( a^{-m}
-        = \displaystyle{\frac{1}{a^{m}}} \) \\[10pt]
-        \( \displaystyle{\frac{a^{m}}{a^{n}} }= a^{m-n} \) & \( \displaystyle{
-            \left(\frac{a}{b}\right)^{m} } =
-            \frac{a^{m}}{b^{m}} \) & \( \displaystyle{\frac{1}{a^{-m}}} = a^{m} \) \\[10pt]
-        \( \left(a^{m}\right)^{n} = a^{mn} \) & \( a^{0} = 1 \) & \(  
-        \left( \displaystyle{\frac{a}{b}}\right)^{-m} =
-        \displaystyle{\frac{b^{m}}{a^{m}}} \)
-    \end{tabular}\\[1cm]
-\end{center}
-\begin{center}
-\fbox{ \textbf{ always rationalize denominator } }
-\end{center}
-
-\subsubsection{radicals of mixed index}
-
-\subsubsection{definition of rational exponents}
-
-\[ a^{\frac{n}{m}}=\left(\sqrt[m]{a}\right)^{n} \]
-
-\subsubsection{definition of imaginary numbers}
-
-\[ i^{2}=-1 \left( \text{thus } i=\sqrt{-1} \right) \]
-
-\subsubsection{cyclic property of powers of \( i \) }
-
-%%% math-vimtex-template.tex
-\begin{alignat*}{4}
-&i^{0} &&= 1 \\
-&i  &&= i \\
-&i^{2} &&= -1 \\
-&i^{3} &&= -i
-\end{alignat*}
-
-\paragraph{Example}
-
-\begin{alignat*}{2}
-    i^{35} \quad & \text{\raggedleft divide exponent by 4} \\
-    8R3 \quad & \text{use remainder as exp of }i  \\
-    i^{3} \quad & \text{simplify} \\
-    -i \quad & \text{solution}
-\end{alignat*}
-
-\begin{center}
-\fbox{\parbox{9cm}{ \textbf{when solving a radical problem with an even
-index: check answers} } }
-\end{center}
-
-\subsubsection{odd root property}
-
-\[ \text{if } a^{n} = b \text{, then } a = \sqrt[n]{b} \text{ when } n \text{ is odd} \]
-
-\subsubsection{even root property}
-
-\[ \text{if } a^{n} = b \text{, then } a = \pm\sqrt[n]{b} \text{ when } n \text{ is even} \]
-
-\subsubsection{completing the square}
-
-\begin{alignat*}{2}
-    3x^{2}+18x-6=0 &\quad \text{problem} \\
-    3x^{2}+18x=6 &\quad \text{separate consts from vars} \\
-    x^{2}+6x=2 &\quad \text{divide each term by } a \\
-    \left(\frac{1}{2} \cdot 6\right)^{2} = 3^{2} = 9 &\quad \text{find value to complete
-    sq.} \\
-    x^{2}+6x+6=2+6 &\quad \text{add it to both sides of equation} \\
-    (x+3)^{2} = 11 &\quad \text{factor}
-\end{alignat*}
-
-\subsubsection{quadratic formula}
-
-\begin{alignat*}{2}
-    ax^{2}+bx+c=0 &\quad \text{separate consts from vars} \\
-    ax^{2}+bx=-c &\quad \text{divide each term b } a \\
-    x^{2}+\frac{b}{a}x=\frac{-c}{a} &\quad \text{find num to complete the square} a \\
-\left(\frac{1}{2}\cdot\frac{b}{a}\right)^{2} = \frac{b^{2}}{4a^{2}} & \quad
-\text{add it to both sides} \\
-    x^{2}+\frac{b}{a}x+\frac{b^{2}}{4a^{2}}=\frac{-c}{a}+\frac{b^{2}}{4a^{2} }&\quad \text{factor} \\
-    \left(x^{2}+\frac{b}{2a}\right)^{2} = \frac{b^{2}-4ac}{4a^{2}} &\quad \text{solve} \\
-    x=\frac{-b\pm\sqrt{b^{2}-4ac}}{2a} &\quad \text{solution} \\
-\end{alignat*}
-
-\subsubsection{quadratic in form}
-
-\[ 0 = ax^{m}+bx^{n}+c, \text{ where } m=2n \]
-
-\subsubsection{operations on functions}
-
-\begin{center}
-\begin{tabular}{r l}
-    addition & \( (f+g)(x)=f(x)+g(x) \) \\
-    substraction & \( (f-g)(x)=f(x)-g(x) \) \\
-    multiplication & \( (f \cdot g)(x)=f(x)\cdot g(x) \) \\
-    division & \( \left( \frac{f}{g} \right)(x) = \frac{f(x)}{g(x)} \) \\
-    composition & \(  (f \circ g)(x)=f(g(x)) \)
-\end{tabular}
-\end{center}
-
-\section{geometry}
 \end{document}

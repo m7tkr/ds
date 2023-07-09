@@ -1,0 +1,3 @@
+\subsection{distance between two points}
+
+\[ d = \sqrt{\left(x_{1}-x_{2}\right)^{2}+\left(y_{1}-y_{2}\right)^{2}} \]

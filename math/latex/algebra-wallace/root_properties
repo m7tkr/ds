@@ -1,0 +1,12 @@
+\subsection{odd root property}
+
+\[ \text{if } a^{n} = b \text{, then } a = \sqrt[n]{b} \text{ when } n \text{ is odd} \]                                                          
+
+\subsection{even root property}
+
+\[ \text{if } a^{n} = b \text{, then } a = \pm\sqrt[n]{b} \text{ when } n \text{ is even} \]
+
+\begin{center}
+\fbox{\parbox{9cm}{ \textbf{when solving a radical problem with an even
+index: check answers} } }
+\end{center}
