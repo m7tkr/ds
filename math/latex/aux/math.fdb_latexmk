@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1688923289 "math.tex" "math.pdf" "math" 1688923312
-  "./geometry-lang//./distance_between_points" 1688923287 117 9a3e32a84832a7c56f15c5008093051c ""
+["pdflatex"] 1689017596 "math.tex" "math.pdf" "math" 1689017612
+  "./geometry-lang//./right_triangle.tex" 1689017594 160 b84b5de6f8ea569ebda24ca046085b30 ""
   "/etc/texmf/web2c/texmf.cnf" 1684350216 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -22,10 +22,8 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
-  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1248133631 30251 6afa5cb1d0204815a708a080681d4674 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
-  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
   "/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty" 1643231327 147419 2058c0f5e6893b19c8f3ce95d177646c ""
@@ -49,13 +47,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1684350230 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1687721768 1405651 295057c50084875d356952eb92ae3fc6 ""
-  "aux/math.aux" 1688923312 340 dc68ba0eecb9698b15c1102a6e77b25a "pdflatex"
-  "aux/math.toc" 1688923312 176 4368b1fc6b04d4d8d754e0077b0a77de "pdflatex"
-  "geometry-lang//./distance_between_points" 1688923287 117 9a3e32a84832a7c56f15c5008093051c ""
-  "geometry-lang/main.tex" 1688923222 157 12a24796acf30dedb3602cee585e7c3d ""
-  "math.tex" 1688906538 385 f2220da5417b4a46f77c045517ce50e1 ""
+  "aux/math.aux" 1689017612 327 23c676a3f24865e361a73dbdd18e73e6 "pdflatex"
+  "geometry-lang//./right_triangle.tex" 1689017594 160 b84b5de6f8ea569ebda24ca046085b30 ""
+  "geometry-lang/main.tex" 1689017379 223 70198056f7a7671b939c843de63a37a2 ""
+  "math.tex" 1689017047 387 1b19b3a6728256cc0d240375ce73f368 ""
   (generated)
   "aux/math.aux"
   "aux/math.log"
-  "aux/math.toc"
   "math.pdf"

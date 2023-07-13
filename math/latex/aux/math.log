@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.25)  9 JUL 2023 17:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.25)  10 JUL 2023 19:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -150,34 +150,30 @@ Package gensymb Info: Using \Omega for \ohm on input line 15.
 
 Package gensymb Warning: Not defining \micro.
 
-(aux/math.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+(./geometry-lang/main.tex (././geometry-lang//./right_triangle.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-\tf@toc=\write3
-\openout3 = `math.toc'.
-
- (./geometry-lang/main.tex (././geometry-lang//./distance_between_points)) [1
+))) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (aux/math.aux) ) 
 Here is how much of TeX's memory you used:
- 2780 strings out of 480247
- 43099 string characters out of 5896151
- 337836 words of memory out of 5000000
- 20723 multiletter control sequences out of 15000+600000
- 475422 words of font info for 51 fonts, out of 8000000 for 9000
+ 2773 strings out of 480247
+ 42988 string characters out of 5896151
+ 336836 words of memory out of 5000000
+ 20719 multiletter control sequences out of 15000+600000
+ 475115 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 54i,5n,62p,220b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on aux/math.pdf (1 page, 57634 bytes).
+ 54i,5n,62p,248b,153s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on aux/math.pdf (1 page, 41070 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 28 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
